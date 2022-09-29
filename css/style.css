@@ -1,0 +1,19 @@
+@import url(reset.css);
+@import url(font.css);
+@import url(typography.css);
+
+*{
+    box-sizing: border-box;
+}
+.clear-fix{
+    clear: both;
+}
+.clear-fix::after{
+    display: block;
+    content: " ";
+    clear: both;
+}
+
+h1{
+    font-family: 'Tungsten-Bold';
+}

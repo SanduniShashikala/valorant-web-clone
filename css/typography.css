@@ -1,0 +1,15 @@
+/*Typography*/
+h1{
+    font-family: Tungsten-Bold sans-serif;
+    font-size: 7.5rem;
+    line-height: 1.5rem;
+}
+h2, h3, h4, h5, h6{
+    font-family: DINNextW05-Medium;
+    font-size: 1.8rem;
+    line-height: 2rem;
+}
+p{
+    font-family: DINNextW1G;
+    line-height: 1.5rem;
+}
